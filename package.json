@@ -1,7 +1,7 @@
 {
   "name": "aula_17",
   "version": "1.0.0",
-  "description": "Integrando a Aplicação e MongoDB",
+  "description": "Tornando a Aplicação mais segura",
   "main": "index.js",
   "scripts": {
     "preinstall": "npx npm-force-resolutions",
